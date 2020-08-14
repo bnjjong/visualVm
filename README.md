@@ -28,7 +28,7 @@ when application running, make sure your application is ok. --> http://localhost
 
 
 
-## execute visualVM
+## Execute visualVM
 ### Download
 official site : https://visualvm.github.io/
 
@@ -42,7 +42,7 @@ download and unzip on `~/dev/visualvm_203/`
 $ ~/dev/visualvm_203/bin/visualvm &
 ```
 
-### connection spring boot application
+### Connection spring boot application
 applications -> local -> mouse right click -> add JMX connection...
 
 connection : localhost:9999
