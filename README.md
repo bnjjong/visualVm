@@ -1,6 +1,6 @@
 # Spring boot with visualVm
 
-## environment
+## Environment
 - mac os 10.15.6
 - intelliJ
 - java 12
@@ -53,6 +53,11 @@ connection : localhost:9999
 finally you can see like this.
 ![visualvm](https://user-images.githubusercontent.com/44669620/90215284-27780a00-de36-11ea-87d9-320428cd9f30.png)
 
+
+
+## how use visual VM
+
+### using api
 
 ## Reference
 java Random letters 
