@@ -41,6 +41,8 @@ download and unzip on `~/dev/visualvm_203/`
 ```shell
 $ ~/dev/visualvm_203/bin/visualvm &
 ```
+
+### connection spring boot application
 applications -> local -> mouse right click -> add JMX connection...
 
 connection : localhost:9999
