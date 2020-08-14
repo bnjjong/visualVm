@@ -39,7 +39,7 @@ download and unzip on `~/dev/visualvm_203/`
 
 ### Run
 ```shell
-$ ~/dev/visualvm_203/bin/visualvm
+$ ~/dev/visualvm_203/bin/visualvm &
 ```
 applications -> local -> mouse right click -> add JMX connection...
 
