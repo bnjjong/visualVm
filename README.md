@@ -12,9 +12,10 @@
 Check out this project. with intellij
 ### need to set vm option Before running 
 VisualvmApplication -> `right click` -> Edit 'VisualvmApplication'... -> VM options
-paste it down below.
 
-"-Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.port=9999 -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -Djava.rmi.server.hostname=127.0.0.1"
+**paste it down below.**
+
+> -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.port=9999 -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -Djava.rmi.server.hostname=127.0.0.1
 
 
 ![settings](https://user-images.githubusercontent.com/44669620/90213686-5c359280-de31-11ea-8d4b-3d4372007e05.png)
