@@ -46,10 +46,12 @@ $ ~/dev/visualvm_203/bin/visualvm &
 applications -> local -> mouse right click -> add JMX connection...
 
 connection : localhost:9999
+
 ![visualvm](https://user-images.githubusercontent.com/44669620/90215089-92751100-de35-11ea-8e69-355070ad25c1.png)
 ![visualvm](https://user-images.githubusercontent.com/44669620/90215232-03b4c400-de36-11ea-9b23-cbc850c5e9d4.png)
 
 finally you can see like this.
+
 ![visualvm](https://user-images.githubusercontent.com/44669620/90215284-27780a00-de36-11ea-87d9-320428cd9f30.png)
 
 
