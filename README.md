@@ -41,6 +41,17 @@ download and unzip on `~/dev/visualvm_203/`
 ```shell
 $ ~/dev/visualvm_203/bin/visualvm &
 ```
+if occur error below, set java home path at config file of visulvm.
+```shell
+$ vi ~/dev/visualvm_203/etc/visualvm.conf
+
+# find visualvm_jdkhome
+visualvm_jdkhome="{JDK HOME PATH}"
+
+# in my case, I'm using SDKMan.
+visualvm_jdkhome="/Users/jordan/.sdkman/candidates/java/14.0.2.j9-adpt"
+```
+
 
 ### Connection spring boot application
 applications -> local -> mouse right click -> add JMX connection...
