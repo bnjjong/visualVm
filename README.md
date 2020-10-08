@@ -42,6 +42,7 @@ download and unzip on `~/dev/visualvm_203/`
 $ ~/dev/visualvm_203/bin/visualvm &
 ```
 if occur error below, set java home path at config file of visulvm.
+- reference - https://gist.github.com/gavvvr/c9891684f9ef062502d58c80903be5cc
 ```shell
 $ vi ~/dev/visualvm_203/etc/visualvm.conf
 
@@ -51,6 +52,7 @@ visualvm_jdkhome="{JDK HOME PATH}"
 # in my case, I'm using SDKMan.
 visualvm_jdkhome="/Users/jordan/.sdkman/candidates/java/14.0.2.j9-adpt"
 ```
+
 
 
 ### Connection spring boot application
